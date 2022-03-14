@@ -84,7 +84,7 @@
       "zh",
       "zu"
     ],
-    "changelog": "- Bumped base \n- ReturnYouTubeDislike integration\n- Channel whitelisting for video ads\n- Improved ad-blocking\n- Comments location (alpha) has been removed (because Google pushed new comments to tablet UI)\n- Added tablet style under swipe controls for partially disabling recommended videos in landscape mode and other tablet styled UI\n- Added support for themed icon (Android 13+)\n\nSponsorblock changes:\n- added support for channel whitelisting (see the \"Channel whitelisting\" toggle in sb settings\n- added support for setting the minimum segment duration\n- added the filler category\n- replaced the \"Change colors\" button with a text field inside of each category's setting\n- 403 messages (warns, locked video/segment) will now be properly displayed\n- added an option to enable SB browser button.\n- option to change the API URL\n\nKNOWN ISSUES:\n- For some users (around 15%) google has pushed out a UI update that breaks RYD and any other vanced buttons added below videos\n- all the usual previous issues relating to Chromecast and swipe down to refresh."
+    "changelog": "- KhanhNguyen9872 \n - FB: https://fb.me/khanh10a1 \n - From Vietnamese with love <3"
     },	"music": {
 		"version": "4.64.51",
 		"versionCode": 46451200,
@@ -93,7 +93,7 @@
 	"microg": {
 		"version": "0.2.24.220220",
 		"versionCode": 220220001,
-		"url": "https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/download/v0.2.24.220220/microg.apk",
-		"changelog": "- upstream changes\n- added translations"
+		"url": "https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/download/v0.2.24.220220/microga.apk",
+		"changelog": "- KhanhNguyen9872 \n - FB: https://fb.me/khanh10a1 \n - From Vietnamese with love <3"
 	}
 }
