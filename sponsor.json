@@ -1,0 +1,7 @@
+{
+  "promote": ["tier2", "tier3"],
+  "tier1": ["US"],
+  "tier2": ["AU", "CA", "FR", "DE", "IE", "JP", "NZ", "UK"],
+  "tier3": ["AT", "BE", "DK", "FI", "HK", "IL", "IT", "LU", "MT", "NL", "NO", "PT", "KR", "SG", "ES", "SE", "CH", "TW"],
+  "tier4": ["AL","AR","AM","AZ","BY","BZ","BO","BR","BG","CL","CO","HR","CZ","EE","GE","GT","HN","HU","LV","LT","MK","MX","NI","PA","PY","PE","PL","RO","RU","SA","RS","SK","TR","UA","UY"]
+}
