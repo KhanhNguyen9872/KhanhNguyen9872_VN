@@ -15,6 +15,8 @@
 - Nếu có bất kì Bug gì, hãy report cho tôi biết bằng link FB bên dưới!
 - Xin chân thành cảm ơn!
 
+# Tôi đã cố gắng hoàn thiện nó, tôi cho phép các bạn Fork nhưng xin đừng re-up lại! Hãy là 1 công dân tốt😘
+
 # KhanhNguyen9872
 - Facebook: [Nguyễn Văn Khánh](https://fb.me/khanh10a1)
 - Youtube: [KhanhNguyen9872](https://www.youtube.com/channel/UCG48mG78znU95DSxyCBffOg)
