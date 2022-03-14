@@ -17,7 +17,7 @@ Credit: Vanced Team
 - Nếu có bất kì Bug gì, hãy report cho tôi biết bằng link FB bên dưới!
 - Xin chân thành cảm ơn!
 
-# Tôi đã cố gắng hoàn thiện nó, tôi cho phép các bạn Fork nhưng xin đừng re-up lại! Hãy là 1 công dân tốt😘
+Tôi đã cố gắng hoàn thiện nó, bạn có thể Fork về để nghiên cứu, nhưng hãy tôn trọng tác giả! Hãy là 1 công dân tốt😘
 
 # KhanhNguyen9872
 - Facebook: [Nguyễn Văn Khánh](https://fb.me/khanh10a1)
