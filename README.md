@@ -2,7 +2,7 @@
 
 <div>
 
-[![Github All Releases](https://img.shields.io/github/downloads/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101/total.svg?style=for-the-badge)](https://github.com/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101/releases/latest) [![Github All Releases](https://img.shields.io/github/release/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101.svg?style=for-the-badge)](https://github.com/KhanhNguyen9872/0101011101010111001110010011000101100100010010000101011001101001010110100101011000111001010101110101/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/KhanhNguyen9872/KhanhNguyen9872_VN/total.svg?style=for-the-badge)](https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/latest) [![Github All Releases](https://img.shields.io/github/release/KhanhNguyen9872/KhanhNguyen9872_VN.svg?style=for-the-badge)](https://github.com/KhanhNguyen9872/KhanhNguyen9872_VN/releases/latest)
 
 </div>
 
