@@ -10,7 +10,7 @@
 
 # Mục đích của repo này
 - Thì tui làm github này nhằm mục đích phục vụ ae Việt Nam có thể download YTB VC 1 cách dễ dàng nhất! Hổ trợ Root và No Root!
-- Tôi chỉ có thể upload 1 vài phiên bản, lý do 1 repo chỉ chứa tối đa 2GB Storage! Nhưng tôi nghĩ từng này là đủ dùng rồi, chả ai lại sài bản cũ quá làm gì!
+- Ở Phiên bản lậu này sẽ có đủ toàn bộ file cài như lúc VC vừa khai tử nhe!
 - Tôi làm vì đam mê, đây là FREE, nên mong mọi người hãy có ý thức trong việc sử dụng, mọi người đều là bạn của tôi!
 - Nếu có bất kì Bug gì, hãy report cho tôi biết bằng link FB bên dưới!
 - Xin chân thành cảm ơn!
